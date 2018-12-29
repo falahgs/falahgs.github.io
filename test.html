@@ -33,7 +33,7 @@
       // Initialize the Image Classifier method with MobileNet
       const classifier = ml5.imageClassifier('MobileNet', function() {
      //   console.log('Model Loaded!');
-         message.innerText=classifier;
+         //message.innerText=classifier;
       });
 
       // Make a prediction with the selected image
@@ -41,13 +41,13 @@
       classifier.predict(image, function(err, results) {
         result.innerText = results[0].className;
         probability.innerText = results[0].probability.toFixed(4);
-       // message.innerText=err;
+        //message.innerText=err;
        // let label=result[0].className;
       //  fill(0);
        // textSize(55);
        // text(label,)
       });
-
+message.innerText=err;
     </script>
   </body>
 </html>
