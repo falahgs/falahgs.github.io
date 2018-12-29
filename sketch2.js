@@ -71,7 +71,7 @@ function gotImage(e) {
 function handleFiles() {
   const curFiles = fileInput.files;
   if (curFiles.length === 0) {
-    image.src = 'images/1.jpg';
+    image.src = 'https://falahgs.github.io/1.jpg';
     setTimeout(classifyImage, 100);
     warning.innerHTML = 'No image selected for upload';
   } else {
