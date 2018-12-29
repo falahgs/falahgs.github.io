@@ -62,7 +62,7 @@ function gotImage(e) {
       setTimeout(classifyImage, 100);
     }
   } else {
-    image.src = 'images/1.jpg';
+    image.src = 'https://falahgs.github.io/1.jpg';
     setTimeout(classifyImage, 100);
     warning.innerHTML = 'Please drop an image file.'
   }
