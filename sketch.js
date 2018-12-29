@@ -34,7 +34,7 @@ function imageReady() {
 
 function setup() {
   createCanvas(640, 480);
-  puffin = createImg('1.jpg', imageReady);
+  puffin = createImg('https://falahgs.github.io/blob/master/1.jpg', imageReady);
   puffin.hide();
   background(0);
   mobilenet = ml5.imageClassifier('MobileNet', modelReady);
