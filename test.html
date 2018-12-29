@@ -25,6 +25,7 @@
       const probability = document.getElementById('probability');
 
       // Initialize the Image Classifier method with MobileNet
+       loading.innerText='Model Loaded!----0';
       const classifier = ml5.imageClassifier('MobileNet', function() {
         console.log('Model Loaded!');
         loading.innerText='Model Loaded!----1';
