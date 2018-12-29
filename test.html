@@ -12,7 +12,8 @@
     <h1>Image classification using MobileNet</h1>
     <p>The MobileNet model labeled this as
     <span id="result">...</span> with a confidence of
-    <span id="probability">...</span></p>
+    <span id="probability">...</span></p>with message
+     <span id="message">...</span></p>
     <img src="https://ml5js.org/docs/assets/img/bird.jpg"
      crossorigin="anonymous" id="image" width="400">
 
@@ -39,6 +40,7 @@
       classifier.predict(image, function(err, results) {
         result.innerText = results[0].className;
         probability.innerText = results[0].probability.toFixed(4);
+        message.innerText=err;
        // let label=result[0].className;
       //  fill(0);
        // textSize(55);
