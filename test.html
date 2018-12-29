@@ -12,8 +12,9 @@
     <h1>Image classification using MobileNet</h1>
     <p>The MobileNet model labeled this as
     <span id="result">...</span> with a confidence of
-    <span id="probability">...</span></p>with message
-     <span id="message">...</span></p>
+    <span id="probability">...</span></p>with load
+     <span id="message">...</span></p> with running
+     <span id="running">...</span></p>
     <img src="https://ml5js.org/docs/assets/img/bird.jpg"
      crossorigin="anonymous" id="image" width="400">
 
@@ -33,7 +34,7 @@
       // Initialize the Image Classifier method with MobileNet
       const classifier = ml5.imageClassifier('MobileNet', function() {
      //   console.log('Model Loaded!');
-         //message.innerText=classifier;
+         message.innerText='Model Loaded!';
       });
 
       // Make a prediction with the selected image
@@ -43,6 +44,7 @@
         probability.innerText = results[0].probability.toFixed(4);
         //message.innerText=err;
         message.innerText=results;
+        running.innerText='running';
        // let label=result[0].className;
       //  fill(0);
        // textSize(55);
