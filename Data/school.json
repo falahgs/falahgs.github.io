@@ -1,0 +1,102 @@
+[
+  {
+    "student_id": 1,
+    "name": "Alice Johnson",
+    "address": {
+      "street": "123 Maple Street",
+      "city": "Springfield",
+      "state": "IL",
+      "zip_code": "62704"
+    }
+  },
+  {
+    "student_id": 2,
+    "name": "Michael Smith",
+    "address": {
+      "street": "456 Oak Avenue",
+      "city": "Austin",
+      "state": "TX",
+      "zip_code": "78701"
+    }
+  },
+  {
+    "student_id": 3,
+    "name": "Sophia Williams",
+    "address": {
+      "street": "789 Pine Lane",
+      "city": "Seattle",
+      "state": "WA",
+      "zip_code": "98101"
+    }
+  },
+  {
+    "student_id": 4,
+    "name": "James Brown",
+    "address": {
+      "street": "321 Elm Street",
+      "city": "Denver",
+      "state": "CO",
+      "zip_code": "80202"
+    }
+  },
+  {
+    "student_id": 5,
+    "name": "Emma Garcia",
+    "address": {
+      "street": "654 Birch Road",
+      "city": "Miami",
+      "state": "FL",
+      "zip_code": "33101"
+    }
+  },
+  {
+    "student_id": 6,
+    "name": "Liam Martinez",
+    "address": {
+      "street": "987 Cedar Drive",
+      "city": "Phoenix",
+      "state": "AZ",
+      "zip_code": "85001"
+    }
+  },
+  {
+    "student_id": 7,
+    "name": "Olivia Davis",
+    "address": {
+      "street": "159 Walnut Way",
+      "city": "Portland",
+      "state": "OR",
+      "zip_code": "97201"
+    }
+  },
+  {
+    "student_id": 8,
+    "name": "Benjamin Rodriguez",
+    "address": {
+      "street": "753 Ash Boulevard",
+      "city": "Chicago",
+      "state": "IL",
+      "zip_code": "60601"
+    }
+  },
+  {
+    "student_id": 9,
+    "name": "Charlotte Wilson",
+    "address": {
+      "street": "258 Spruce Path",
+      "city": "Atlanta",
+      "state": "GA",
+      "zip_code": "30301"
+    }
+  },
+  {
+    "student_id": 10,
+    "name": "Ethan Clark",
+    "address": {
+      "street": "369 Redwood Street",
+      "city": "San Francisco",
+      "state": "CA",
+      "zip_code": "94101"
+    }
+  }
+]
