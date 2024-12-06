@@ -1,19 +1,53 @@
 {
-  "books": [
-    {
-      "id": 1,
-      "title": "Mastering Machine Learning with Python",
-      "description": "A comprehensive guide to building machine learning models using Python and popular libraries like Scikit-Learn and TensorFlow.",
-      "price": 29.99,
-      "url": "https://github.com/falahgs/falahgs.github.io/blob/master/pythons-books/My%20Packages%20%20in%20python%20projects%20in%20PYPI%20Server.pdf"
-    },
-     {
-      "id": 2,
-      "title": "Python Programming in Arabic",
-      "description": "Python Programming in Arabic",
-      "price": "free",
-      "url": "https://github.com/falahgs/falahgs.github.io/blob/master/pythons-books/Python%20Programming%20in%20Arabic.pdf"
-    }
-   
-  ]
+    "books": [
+        {
+            "id": 1,
+            "title": "\u062a\u0639\u0644\u0645 \u0628\u0631\u0645\u062c\u0629 \u0627\u0644\u0630\u0643\u0627\u0621 \u0627\u0644\u0627\u0635\u0637\u0646\u0627\u0639\u064a -\u0645\u0643\u062a\u0628\u0629 \u0631\u0641\u0648\u0641",
+            "description": "\u062a\u0639\u0644\u0645 \u0628\u0631\u0645\u062c\u0629 \u0627\u0644\u0630\u0643\u0627\u0621 \u0627\u0644\u0627\u0635\u0637\u0646\u0627\u0639\u064a -\u0645\u0643\u062a\u0628\u0629 \u0631\u0641\u0648\u0641",
+            "price": "free",
+            "url": "https://github.com/falahgs/falahgs.github.io/blob/master/pythons-books/\u062a\u0639\u0644\u0645 \u0628\u0631\u0645\u062c\u0629 \u0627\u0644\u0630\u0643\u0627\u0621 \u0627\u0644\u0627\u0635\u0637\u0646\u0627\u0639\u064a -\u0645\u0643\u062a\u0628\u0629 \u0631\u0641\u0648\u0641.pdf"
+        },
+        {
+            "id": 2,
+            "title": "Python",
+            "description": "Python",
+            "price": "free",
+            "url": "https://github.com/falahgs/falahgs.github.io/blob/master/pythons-books/Python.pdf"
+        },
+        {
+            "id": 3,
+            "title": "Python Programming in Arabic",
+            "description": "Python Programming in Arabic",
+            "price": "free",
+            "url": "https://github.com/falahgs/falahgs.github.io/blob/master/pythons-books/Python Programming in Arabic.pdf"
+        },
+        {
+            "id": 4,
+            "title": "Nandy A., Biswas M. - Reinforcement Learning With Open AI, TensorFlow and Keras Using Python - 2018",
+            "description": "Nandy A., Biswas M. - Reinforcement Learning With Open AI, TensorFlow and Keras Using Python - 2018",
+            "price": "free",
+            "url": "https://github.com/falahgs/falahgs.github.io/blob/master/pythons-books/Nandy A., Biswas M. - Reinforcement Learning With Open AI, TensorFlow and Keras Using Python - 2018.pdf"
+        },
+        {
+            "id": 5,
+            "title": "Modern Computer Vision with PyTorch",
+            "description": "Modern Computer Vision with PyTorch",
+            "price": "free",
+            "url": "https://github.com/falahgs/falahgs.github.io/blob/master/pythons-books/Modern Computer Vision with PyTorch.pdf"
+        },
+        {
+            "id": 6,
+            "title": "Machine Learning With Python For Everyone 1st Edition",
+            "description": "Machine Learning With Python For Everyone 1st Edition",
+            "price": "free",
+            "url": "https://github.com/falahgs/falahgs.github.io/blob/master/pythons-books/Machine Learning With Python For Everyone 1st Edition.Pdf"
+        },
+        {
+            "id": 7,
+            "title": "apprendre_python3_arab",
+            "description": "apprendre_python3_arab",
+            "price": "free",
+            "url": "https://github.com/falahgs/falahgs.github.io/blob/master/pythons-books/apprendre_python3_arab.pdf"
+        }
+    ]
 }
