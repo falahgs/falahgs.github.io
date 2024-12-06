@@ -7,13 +7,13 @@
       "price": 29.99,
       "url": "https://github.com/falahgs/falahgs.github.io/blob/master/pythons-books/My%20Packages%20%20in%20python%20projects%20in%20PYPI%20Server.pdf"
     },
-    {
+     {
       "id": 2,
-      "title": "Deep Learning for Beginners with Python",
-      "description": "An easy-to-follow introduction to deep learning concepts and implementation using Python and Keras.",
-      "price": 24.99,
-      "url": "https://example.com/book2.pdf"
-    },
+      "title": "Python Programming in Arabic",
+      "description": "Python Programming in Arabic",
+      "price": "free",
+      "url": "https://github.com/falahgs/falahgs.github.io/blob/master/pythons-books/Python%20Programming%20in%20Arabic.pdf"
+    }
     {
       "id": 3,
       "title": "Python for Data Science and AI",
