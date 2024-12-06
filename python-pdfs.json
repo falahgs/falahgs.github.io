@@ -1,0 +1,74 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "Mastering Machine Learning with Python",
+      "description": "A comprehensive guide to building machine learning models using Python and popular libraries like Scikit-Learn and TensorFlow.",
+      "price": 29.99,
+      "url": "https://example.com/book1.pdf"
+    },
+    {
+      "id": 2,
+      "title": "Deep Learning for Beginners with Python",
+      "description": "An easy-to-follow introduction to deep learning concepts and implementation using Python and Keras.",
+      "price": 24.99,
+      "url": "https://example.com/book2.pdf"
+    },
+    {
+      "id": 3,
+      "title": "Python for Data Science and AI",
+      "description": "Learn Python programming tailored for data science and AI applications, including Pandas and Matplotlib.",
+      "price": 27.50,
+      "url": "https://example.com/book3.pdf"
+    },
+    {
+      "id": 4,
+      "title": "Natural Language Processing with Python",
+      "description": "A practical guide to NLP techniques and tools using Python, including NLTK and SpaCy.",
+      "price": 34.99,
+      "url": "https://example.com/book4.pdf"
+    },
+    {
+      "id": 5,
+      "title": "Building AI Chatbots with Python",
+      "description": "Discover how to build conversational AI chatbots using Python and frameworks like Rasa and OpenAI GPT.",
+      "price": 31.99,
+      "url": "https://example.com/book5.pdf"
+    },
+    {
+      "id": 6,
+      "title": "AI-Powered Web Applications with Python",
+      "description": "Learn to integrate AI models into web applications using Flask, FastAPI, and Streamlit.",
+      "price": 28.99,
+      "url": "https://example.com/book6.pdf"
+    },
+    {
+      "id": 7,
+      "title": "Computer Vision with Python",
+      "description": "An in-depth guide to computer vision projects using Python, OpenCV, and deep learning models.",
+      "price": 32.50,
+      "url": "https://example.com/book7.pdf"
+    },
+    {
+      "id": 8,
+      "title": "Automating Tasks with Python and AI",
+      "description": "Practical examples of using AI for task automation, including data scraping and predictive analytics.",
+      "price": 26.99,
+      "url": "https://example.com/book8.pdf"
+    },
+    {
+      "id": 9,
+      "title": "AI in Healthcare with Python",
+      "description": "Explore real-world applications of AI in the healthcare domain, including diagnostic tools and predictive modeling.",
+      "price": 35.99,
+      "url": "https://example.com/book9.pdf"
+    },
+    {
+      "id": 10,
+      "title": "Reinforcement Learning with Python",
+      "description": "Master the concepts of reinforcement learning and implement projects using Python and PyTorch.",
+      "price": 39.99,
+      "url": "https://example.com/book10.pdf"
+    }
+  ]
+}
