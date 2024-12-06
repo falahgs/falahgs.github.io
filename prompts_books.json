@@ -1,0 +1,46 @@
+{
+    "books": [
+        {
+            "id": 1,
+            "title": "assets_assets_24961_chatgpt-code-interpreter-prompt-list--by-skill-leap-ai-v2.1688828826",
+            "description": "assets_assets_24961_chatgpt-code-interpreter-prompt-list--by-skill-leap-ai-v2.1688828826",
+            "price": "free",
+            "url": "https://github.com/falahgs/falahgs.github.io/blob/master/prompts-books/assets_assets_24961_chatgpt-code-interpreter-prompt-list--by-skill-leap-ai-v2.1688828826.pdf"
+        },
+        {
+            "id": 2,
+            "title": "Effectively+Creating+Prompts",
+            "description": "Effectively+Creating+Prompts",
+            "price": "free",
+            "url": "https://github.com/falahgs/falahgs.github.io/blob/master/prompts-books/Effectively+Creating+Prompts.pdf"
+        },
+        {
+            "id": 3,
+            "title": "Mastering_Generative_AI_Prompt_Engineering_Data_Science_Horizons",
+            "description": "Mastering_Generative_AI_Prompt_Engineering_Data_Science_Horizons",
+            "price": "free",
+            "url": "https://github.com/falahgs/falahgs.github.io/blob/master/prompts-books/Mastering_Generative_AI_Prompt_Engineering_Data_Science_Horizons.pdf"
+        },
+        {
+            "id": 4,
+            "title": "Modifiers+for+Better+Outputs",
+            "description": "Modifiers+for+Better+Outputs",
+            "price": "free",
+            "url": "https://github.com/falahgs/falahgs.github.io/blob/master/prompts-books/Modifiers+for+Better+Outputs.pdf"
+        },
+        {
+            "id": 5,
+            "title": "Prompt+Book+From+OpenArt",
+            "description": "Prompt+Book+From+OpenArt",
+            "price": "free",
+            "url": "https://github.com/falahgs/falahgs.github.io/blob/master/prompts-books/Prompt+Book+From+OpenArt.pdf"
+        },
+        {
+            "id": 6,
+            "title": "THE+PROMPT+ENGINEERING+GUIDE",
+            "description": "THE+PROMPT+ENGINEERING+GUIDE",
+            "price": "free",
+            "url": "https://github.com/falahgs/falahgs.github.io/blob/master/prompts-books/THE+PROMPT+ENGINEERING+GUIDE.pdf"
+        }
+    ]
+}
