@@ -1,0 +1,151 @@
+{
+    "books": [
+        {
+            "id": 1,
+            "title": "Applications of Generative AI",
+            "description": "Applications of Generative AI",
+            "price": "free",
+            "url": "https://github.com/falahgs/falahgs.github.io/blob/master/ai-books/Applications of Generative AI.pdf"
+        },
+        {
+            "id": 2,
+            "title": "Applied Generative AI for Beginners",
+            "description": "Applied Generative AI for Beginners",
+            "price": "free",
+            "url": "https://github.com/falahgs/falahgs.github.io/blob/master/ai-books/Applied Generative AI for Beginners.pdf"
+        },
+        {
+            "id": 3,
+            "title": "Building_Transformer_Models_with_Attention_Stefania_Cristina_and",
+            "description": "Building_Transformer_Models_with_Attention_Stefania_Cristina_and",
+            "price": "free",
+            "url": "https://github.com/falahgs/falahgs.github.io/blob/master/ai-books/Building_Transformer_Models_with_Attention_Stefania_Cristina_and.pdf"
+        },
+        {
+            "id": 4,
+            "title": "Deep Learning and Medical Applications",
+            "description": "Deep Learning and Medical Applications",
+            "price": "free",
+            "url": "https://github.com/falahgs/falahgs.github.io/blob/master/ai-books/Deep Learning and Medical Applications.pdf"
+        },
+        {
+            "id": 5,
+            "title": "Deep Learning with Applications Using Python",
+            "description": "Deep Learning with Applications Using Python",
+            "price": "free",
+            "url": "https://github.com/falahgs/falahgs.github.io/blob/master/ai-books/Deep Learning with Applications Using Python.pdf"
+        },
+        {
+            "id": 6,
+            "title": "deep-learning-for-vision-systems-1nbsped-1617296198-9781617296192",
+            "description": "deep-learning-for-vision-systems-1nbsped-1617296198-9781617296192",
+            "price": "free",
+            "url": "https://github.com/falahgs/falahgs.github.io/blob/master/ai-books/deep-learning-for-vision-systems-1nbsped-1617296198-9781617296192.pdf"
+        },
+        {
+            "id": 7,
+            "title": "DeepLearningMathematica",
+            "description": "DeepLearningMathematica",
+            "price": "free",
+            "url": "https://github.com/falahgs/falahgs.github.io/blob/master/ai-books/DeepLearningMathematica.pdf"
+        },
+        {
+            "id": 8,
+            "title": "deeplearningwithpython",
+            "description": "deeplearningwithpython",
+            "price": "free",
+            "url": "https://github.com/falahgs/falahgs.github.io/blob/master/ai-books/deeplearningwithpython.pdf"
+        },
+        {
+            "id": 9,
+            "title": "DEVELOPING_KAGGLE_NOTEBOOKS",
+            "description": "DEVELOPING_KAGGLE_NOTEBOOKS",
+            "price": "free",
+            "url": "https://github.com/falahgs/falahgs.github.io/blob/master/ai-books/DEVELOPING_KAGGLE_NOTEBOOKS.pdf"
+        },
+        {
+            "id": 10,
+            "title": "Generative AI",
+            "description": "Generative AI",
+            "price": "free",
+            "url": "https://github.com/falahgs/falahgs.github.io/blob/master/ai-books/Generative AI.pdf"
+        },
+        {
+            "id": 11,
+            "title": "Hands-On Machine Learning for Cybersecurity",
+            "description": "Hands-On Machine Learning for Cybersecurity",
+            "price": "free",
+            "url": "https://github.com/falahgs/falahgs.github.io/blob/master/ai-books/Hands-On Machine Learning for Cybersecurity.pdf"
+        },
+        {
+            "id": 12,
+            "title": "hands-on-artificial-intelligence-for-iot-expert-machine-learning-and-deep-learning-techniques-for-developing-smarter-iot-systems-1788836065-9781788836067",
+            "description": "hands-on-artificial-intelligence-for-iot-expert-machine-learning-and-deep-learning-techniques-for-developing-smarter-iot-systems-1788836065-9781788836067",
+            "price": "free",
+            "url": "https://github.com/falahgs/falahgs.github.io/blob/master/ai-books/hands-on-artificial-intelligence-for-iot-expert-machine-learning-and-deep-learning-techniques-for-developing-smarter-iot-systems-1788836065-9781788836067.pdf"
+        },
+        {
+            "id": 13,
+            "title": "Machine Learning With Python For Everyone 1st Edition",
+            "description": "Machine Learning With Python For Everyone 1st Edition",
+            "price": "free",
+            "url": "https://github.com/falahgs/falahgs.github.io/blob/master/ai-books/Machine Learning With Python For Everyone 1st Edition.Pdf"
+        },
+        {
+            "id": 14,
+            "title": "Mastering_Generative_AI_Prompt_Engineering_Data_Science_Horizons",
+            "description": "Mastering_Generative_AI_Prompt_Engineering_Data_Science_Horizons",
+            "price": "free",
+            "url": "https://github.com/falahgs/falahgs.github.io/blob/master/ai-books/Mastering_Generative_AI_Prompt_Engineering_Data_Science_Horizons.pdf"
+        },
+        {
+            "id": 15,
+            "title": "MATLAB Deep Learning",
+            "description": "MATLAB Deep Learning",
+            "price": "free",
+            "url": "https://github.com/falahgs/falahgs.github.io/blob/master/ai-books/MATLAB Deep Learning.pdf"
+        },
+        {
+            "id": 16,
+            "title": "Nandy A., Biswas M. - Reinforcement Learning With Open AI, TensorFlow and Keras Using Python - 2018",
+            "description": "Nandy A., Biswas M. - Reinforcement Learning With Open AI, TensorFlow and Keras Using Python - 2018",
+            "price": "free",
+            "url": "https://github.com/falahgs/falahgs.github.io/blob/master/ai-books/Nandy A., Biswas M. - Reinforcement Learning With Open AI, TensorFlow and Keras Using Python - 2018.pdf"
+        },
+        {
+            "id": 17,
+            "title": "NaturalLanguageProcessingWithPython",
+            "description": "NaturalLanguageProcessingWithPython",
+            "price": "free",
+            "url": "https://github.com/falahgs/falahgs.github.io/blob/master/ai-books/NaturalLanguageProcessingWithPython.pdf"
+        },
+        {
+            "id": 18,
+            "title": "NLTK",
+            "description": "NLTK",
+            "price": "free",
+            "url": "https://github.com/falahgs/falahgs.github.io/blob/master/ai-books/NLTK.pdf"
+        },
+        {
+            "id": 19,
+            "title": "Prompt+Book+From+OpenArt",
+            "description": "Prompt+Book+From+OpenArt",
+            "price": "free",
+            "url": "https://github.com/falahgs/falahgs.github.io/blob/master/ai-books/Prompt+Book+From+OpenArt.pdf"
+        },
+        {
+            "id": 20,
+            "title": "The Kaggle Book Data analysis and machine learning for competitive data science (KONRAD. MASSARON BANACHEWICZ (LUCA.)) (z-lib.org)",
+            "description": "The Kaggle Book Data analysis and machine learning for competitive data science (KONRAD. MASSARON BANACHEWICZ (LUCA.)) (z-lib.org)",
+            "price": "free",
+            "url": "https://github.com/falahgs/falahgs.github.io/blob/master/ai-books/The Kaggle Book Data analysis and machine learning for competitive data science (KONRAD. MASSARON BANACHEWICZ (LUCA.)) (z-lib.org).pdf"
+        },
+        {
+            "id": 21,
+            "title": "Understanding Generative AI Business Applications",
+            "description": "Understanding Generative AI Business Applications",
+            "price": "free",
+            "url": "https://github.com/falahgs/falahgs.github.io/blob/master/ai-books/Understanding Generative AI Business Applications.pdf"
+        }
+    ]
+}
